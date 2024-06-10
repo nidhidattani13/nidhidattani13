@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 👀 I’m interested in web development, data analysis, and software engineering.
+- 👀 I’m interested in web development and software engineering.
 - 🌱 I’m currently learning React.js and advanced algorithms.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
 - ⚡ Fun fact: I enjoy baking and often code with a fresh batch of cookies nearby.
