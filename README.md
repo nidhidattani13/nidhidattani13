@@ -33,9 +33,17 @@ A frontend-focused platform that displays fashion events, supporting diverse sty
 ## 📊 GitHub Stats
 ![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhidattani13&show_icons=true&theme=dracula)
 
-## 🌐 Socials
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com) | [GitHub](https://github.com/nidhidattani13)
+## 🌐 Connect with Me
+I'm an introvert at heart, but I love meeting and learning from people passionate about tech and innovation. Feel free to reach out!
 
+<a href="https://linkedin.com/in/nidhidattani" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="28px" alt="LinkedIn">
+</a>
+<a href="mailto:dattaninidhi37@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="28px" alt="Email">
+</a>
+<a href="https://github.com/nidhidattani13" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="28px" alt="GitHub">
+</a>
 ---
 
-Feel free to edit the project descriptions and links as you see fit. Let me know if you’d like more customization!
