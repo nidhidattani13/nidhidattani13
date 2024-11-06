@@ -5,23 +5,20 @@
 💡 Open to new opportunities and collaborations in tech, particularly in **open-source** and **innovative web solutions**.  
 💼 Actively building and contributing to projects that showcase my expertise and passion for web development and software engineering.  
 
+Fun fact: I’m a baker at heart and love coding with a fresh batch of cookies nearby! 🍪
+
 ## 🛠️ Technologies & Tools
 Here's a list of technologies and tools I've worked with:
 
 **Languages**: HTML5, CSS3, JavaScript, MySQL, C, Java, Python, PHP, C++  
 **Frameworks**: .NET MVC, React (in progress), Laravel  
 **Databases**: MySQL  
-**Tools**: Git, Visual Studio, Docker  
+**Tools**: Git, Visual Studio 
 **CMS**: WordPress  
-**Cloud**: AWS, Heroku  
+**Cloud**: AWS  
 
 ## 🔥 Featured Projects
 Here are some of the projects I’m most proud of:
-
-### Health and Fitness Tracker
-A .NET-based platform to help users track and improve their health. Features include user management, health metrics, nutrition tracking, wearable device integration, and an admin dashboard.
-
-**Technologies**: .NET MVC, SQL, HTML, CSS, JavaScript
 
 ### PetHub - Pet Caretaker and Adoption Platform
 A web app designed for pet owners to connect with caretakers and adopters. Key features include real-time chat, video conferencing, and secure offer management.
