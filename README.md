@@ -13,7 +13,8 @@ Here's a list of technologies and tools I've worked with:
 **Languages**: HTML5, CSS3, JavaScript, MySQL, C, Java, Python, PHP, C++  
 **Frameworks**: .NET MVC, React (in progress), Laravel  
 **Databases**: MySQL  
-**Tools**: Git, Visual Studio 
+**Tools**: Git, Visual Studio
+
 **CMS**: WordPress  
 **Cloud**: AWS  
 
