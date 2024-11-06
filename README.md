@@ -14,7 +14,6 @@ Here's a list of technologies and tools I've worked with:
 **Frameworks**: .NET MVC, React (in progress), Laravel  
 **Databases**: MySQL  
 **Tools**: Git, Visual Studio
-
 **CMS**: WordPress  
 **Cloud**: AWS  
 
