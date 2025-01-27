@@ -37,14 +37,13 @@ A frontend-focused platform that displays fashion events, supporting diverse sty
 I'm an introvert at heart, but I love meeting and learning from people passionate about tech and innovation. Feel free to reach out!
 
 <a href="https://linkedin.com/in/nidhidattani" target="_blank">
-  <img src="![image](https://github.com/user-attachments/assets/e6e46ff3-0520-4e25-b717-ae2b1050d400)
-" width="28px" alt="LinkedIn">
+  <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" width="28px" alt="LinkedIn">
 </a>
 <a href="mailto:dattaninidhi37@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="28px" alt="Email">
+  <img src="https://img.icons8.com/ios-filled/50/0077b5/email.png" width="28px" alt="Email">
 </a>
 <a href="https://github.com/nidhidattani13" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="28px" alt="GitHub">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="28px" alt="GitHub">
 </a>
 ---
 
