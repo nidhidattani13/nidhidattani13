@@ -45,5 +45,5 @@ I'm an introvert at heart, but I love meeting and learning from people passionat
 <a href="https://github.com/nidhidattani13" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="28px" alt="GitHub">
 </a>
----
+
 
