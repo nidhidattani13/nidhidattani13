@@ -1,49 +1,69 @@
-# Hi there, I'm Nidhi Dattani 👋
+<!--
+  ╔══════════════════════════════════════════╗
+  ║   GitHub Profile README for Nidhi Dattani   ║
+  ╚══════════════════════════════════════════╝
+-->
 
-## 🌟 About Me
-🔭 I’m currently working on advancing my skills in **React.js**, **.NET**, and **advanced algorithms**.  
-💡 Open to new opportunities and collaborations in tech, particularly in **open-source** and **innovative web solutions**.  
-💼 Actively building and contributing to projects that showcase my expertise and passion for web development and software engineering.  
+# Hi there, I’m Nidhi Dattani 👋
 
-Fun fact: I’m a baker at heart and love coding with a fresh batch of cookies nearby! 🍪
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nidhidattani37-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nidhidattani37) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-nidhidattani13-orange?style=flat-square&logo=leetcode)](https://leetcode.com/nidhidattani13) 
+[![GitHub followers](https://img.shields.io/github/followers/nidhidattani13?label=Followers&style=social)](https://github.com/nidhidattani13)
 
-## 🛠️ Technologies & Tools
-Here's a list of technologies and tools I've worked with:
+---
 
-**Languages**: HTML5, CSS3, JavaScript, MySQL, C, Java, Python, PHP, C++  
-**Frameworks**: .NET MVC, React (in progress), Laravel  
-**Databases**: MySQL  
-**Tools**: Git, Visual Studio
-**CMS**: WordPress  
-**Cloud**: AWS  
+## 👩‍💻 About Me
 
-## 🔥 Featured Projects
-Here are some of the projects I’m most proud of:
+- 🎓 Bachelor of Technology in Information & Communication Technology, Marwadi University (NAAC A+), Rajkot  
+- 💼 Summer Intern @ WorkEasy Coworking Space: built responsive sites & managed WordPress content  
+- 🔬 R&D: Filed patent for real-time Driver Safety System using Python & OpenCV  
+- 🌱 Currently honing **AI & Prompt Engineering**, exploring chatbot frameworks  
+- 💬 Ask me about **MERN** or **DSA**!
+---
 
-### PetHub - Pet Caretaker and Adoption Platform
-A web app designed for pet owners to connect with caretakers and adopters. Key features include real-time chat, video conferencing, and secure offer management.
+## 🚀 Skills
 
-**Technologies**: React, Node.js, MongoDB, Jitsi API
+| Domain       | Technologies & Tools                                   |
+| ------------ | ------------------------------------------------------ |
+| **Languages**| Python, C++, Java, JavaScript, PHP, C                 |
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS           |
+| **Backend**  | Node.js, Express.js, RESTful APIs, MVC                 |
+| **Databases**| MySQL, MongoDB                                         |
+| **AI/ML**    | OpenCV, Scikit‑Learn, NLTK                              |
+| **Tools**    | Git, VS Code, Postman, WordPress               |
+| **Concepts** | Data Structures & Algorithms, Graph Theory, OOPs, DBMS |
 
-### Fashion Diva - Fashion Showcase Website
-A frontend-focused platform that displays fashion events, supporting diverse styles and backgrounds with interactive features like live feedback and a contact form.
+---
 
-**Technologies**: HTML, CSS, JavaScript
+## 📂 Featured Projects
+
+### [🔗 Pet Adoption Platform](https://github.com/nidhidattani13/pet-adoption-platform)  
+*A full-stack MERN app for browsing and adopting pets.*  
+- JWT auth, role-based dashboards, responsive UI  
+- Handled 500+ pet listings; reduced adoption time by 30%
+
+### [🔗 Drivers’ Safety System](https://github.com/nidhidattani13/driver-safety-system)  
+*Real-time drowsiness & phone-use detection using OpenCV.*  
+- Patent filed (202421033170) for intelligent transportation safety  
+
+### [🔗 Blood Bank Management](https://github.com/nidhidattani13/blood-bank-management)  
+*PHP/MySQL web app for managing blood donations & notifications.*  
+- Automated compatibility checks; streamlined inventory updates  
+
+---
 
 ## 📊 GitHub Stats
-![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhidattani13&show_icons=true&theme=dracula)
 
-## 🌐 Connect with Me
-I'm an introvert at heart, but I love meeting and learning from people passionate about tech and innovation. Feel free to reach out!
+![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhidattani13&show_icons=true&theme=default)  
 
-<a href="https://linkedin.com/in/nidhidattani" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" width="28px" alt="LinkedIn">
-</a>
-<a href="mailto:dattaninidhi37@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/0077b5/email.png" width="28px" alt="Email">
-</a>
-<a href="https://github.com/nidhidattani13" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="28px" alt="GitHub">
-</a>
+---
 
+## 📫 Get in Touch
 
+- ✉️  dattaninidhi37@gmail.com  
+- 🌐  [LinkedIn](https://linkedin.com/in/nidhidattani37)  
+- 💬  Available for internships & freelance projects  
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
